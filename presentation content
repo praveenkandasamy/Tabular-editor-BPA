@@ -1,0 +1,23 @@
+
+#1 Links
+BPA tabular editor installation instructions-
+https://github.com/microsoft/Analysis-Services/tree/master/BestPracticeRules 
+https://github.com/TabularEditor/BestPracticeRules
+
+BPA tabular editor by Guy in a cube-
+https://www.youtube.com/watch?v=1Qan0_VmZRw&t=2s
+
+MS Blog post
+https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance/
+
+#2
+Installation
+
+#3
+Types of rule violations
+Performance, DAX Expressions, Error Prevention, Formatting, Maintenance 
+Not all of them are relevant
+
+#4
+How to fix
+manual, automatic
